@@ -67,7 +67,6 @@ ________________________________________________________________________________
                                                                                                   
  batch_normalization_3 (Bat  (None, 625, 32)             128       ['conv1d_3[0][0]']            
  chNormalization)                                                                                 
-...
 ```
 
 ### Key Architectural Components:
